@@ -26,8 +26,40 @@ In this README, we provide comprehensive instructions on setting up the reposito
 - `requirements.txt`
 
   contains a list of all the Python packages required for running the experiments in this repo.
+- `ASSD`
+  We have developed a static program analyzer capable of detecting code smells.  To complete this experiment, we enhanced ASSD's functionality to enable the detection of co-occuring MIM and LPL code smells.
+​ASSD – Android-Specific Smell Detection
+ASSD is an open-source, Java-based tool for detecting Android-specific code smells (anti-patterns) in Android projects.
+![alt text](image-1.png)
+✨ Features
+Detects a wide range of Android code smells (e.g., Leaking Inner Class, Unused Resources, Overdraw, etc.)
+User-friendly graphical interface (GUI)
+Supports custom selection of smell types
+Displays detailed results: class names, file paths, and total count
+🚀 Quick Start
+Prerequisites
+JDK 1.8
+Android Studio or IntelliJ IDEA
+Setup
+Clone or download this repository:
+bash
+编辑
+git clone https://github.com/your-username/ASSD.git
+Open the project in Android Studio or IntelliJ IDEA.
+Run ASD.java — the main GUI entry point.
+Usage
+Click “Browse” to select an Android project.
+Tick the code smells you want to detect.
+Click “Start Parsing”, then “Detect Selected Code Smell”.
+View results in the console at the bottom, including:
+Detected issues
+Affected class names
+Full file paths
+Total count of detected smells
+💡 Click “Reset” anytime to analyze a new project.
 
-​	
+📄 License
+This project is licensed under the MIT License.	
 
 ## Installation
 
