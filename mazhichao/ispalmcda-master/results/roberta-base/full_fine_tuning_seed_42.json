@@ -1,0 +1,8 @@
+{
+    "Model": "roberta-base",
+    "Model path": "/root/pythonProject3/PEFT4CSD-main/output/roberta-base/full_fine_tuning_seed_42/best_model",
+    "Precision": 0.9632879216927914,
+    "Recall": 0.9632775919732441,
+    "F1": 0.9632720178372353,
+    "MCC": 0.9265655136084556
+}

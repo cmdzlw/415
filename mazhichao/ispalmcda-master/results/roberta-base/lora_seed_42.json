@@ -1,0 +1,8 @@
+{
+    "Model": "roberta-base",
+    "Model path": "output/roberta-base/lora_seed_42/best_model",
+    "Precision": 0.8285984584991235,
+    "Recall": 0.7633110367892977,
+    "F1": 0.7506449494594152,
+    "MCC": 0.5882978864309109
+}

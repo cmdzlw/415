@@ -1,0 +1,8 @@
+{
+    "Model": "codebert-base",
+    "Model path": "output/codebert-base/prompt_tuning_seed_42/best_model",
+    "Precision": 0.5751548946716233,
+    "Recall": 0.5743756967670011,
+    "F1": 0.5732199686505486,
+    "MCC": 0.14952856124035385
+}

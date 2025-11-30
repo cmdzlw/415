@@ -1,0 +1,8 @@
+{
+    "Model": "Qwen2.5-1.5B",
+    "Model path": "output/Qwen2.5-1.5B/ia3_seed_42/best_model",
+    "Precision": 0.7839302471066625,
+    "Recall": 0.702391304347826,
+    "F1": 0.6796983898101419,
+    "MCC": 0.4794372244860342
+}

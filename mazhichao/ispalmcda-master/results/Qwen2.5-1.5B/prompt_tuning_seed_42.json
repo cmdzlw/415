@@ -1,0 +1,8 @@
+{
+    "Model": "Qwen2.5-1.5B",
+    "Model path": "output/Qwen2.5-1.5B/prompt_tuning_seed_42/best_model",
+    "Precision": 0.8414919714540589,
+    "Recall": 0.8414158305462653,
+    "F1": 0.841395264573491,
+    "MCC": 0.6829077977556532
+}

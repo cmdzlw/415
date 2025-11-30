@@ -1,0 +1,8 @@
+{
+    "Model": "starcoderbase-1b",
+    "Model path": "output/starcoderbase-1b/prefix_tuning_seed_42/best_model",
+    "Precision": 0.8272850525364366,
+    "Recall": 0.822943143812709,
+    "F1": 0.8224321542832853,
+    "MCC": 0.6502136996065969
+}

@@ -1,0 +1,8 @@
+{
+    "Model": "Qwen2.5-1.5B",
+    "Model path": "output/Qwen2.5-1.5B/lora_seed_42/best_model",
+    "Precision": 0.9616418043570362,
+    "Recall": 0.9616109253065774,
+    "F1": 0.9616022430510847,
+    "MCC": 0.9232527291472243
+}

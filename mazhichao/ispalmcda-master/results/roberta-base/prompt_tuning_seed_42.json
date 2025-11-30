@@ -1,0 +1,8 @@
+{
+    "Model": "roberta-base",
+    "Model path": "output/roberta-base/prompt_tuning_seed_42/best_model",
+    "Precision": 0.6900172117039587,
+    "Recall": 0.6846153846153846,
+    "F1": 0.6822602237995403,
+    "MCC": 0.3745936498248164
+}
