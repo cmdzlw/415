@@ -1,6 +1,6 @@
 # Integrating Static Program Analysis and Language Models for Co-occurrences Detection of Android Smells
 
-Replication package for our paper, "Integrating Static Program Analysis and Language Models for Co-occurrences Detection of Android Smells", submitted to TOSEM. In this README, we provide comprehensive instructions on setting up the repository and running the experiments presented in our paper. The code is designed to be easily adapted for further exploration of parameter-efficient fine-tuning methods applied to Large Language Models (LLMs) for other classification tasks.
+In this README, we provide comprehensive instructions on setting up the repository and running the experiments presented in our paper. The code is designed to be easily adapted for further exploration of parameter-efficient fine-tuning methods applied to Large Language Models (LLMs) for other classification tasks.
 
 ## Directory Structure of the Repo
 
