@@ -26,10 +26,10 @@ In this README, we provide comprehensive instructions on setting up the reposito
 - `requirements.txt`
 
   contains a list of all the Python packages required for running the experiments in this repo.
-- `ASSD`
+- `ASSD.zip`
   We have developed a static program analyzer capable of detecting code smells.  To complete this experiment, we enhanced ASSD's functionality to enable the detection of co-occuring MIM and LPL code smells.
 
-​ASSD – Android-Specific Smell Detection
+# ​ASSD – Android-Specific Smell Detection
 
 ASSD is an open-source, Java-based tool for detecting Android-specific code smells (anti-patterns) in Android projects.
 
