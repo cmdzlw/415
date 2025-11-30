@@ -43,7 +43,6 @@ Android Studio or IntelliJ IDEA
 Setup
 Clone or download this repository:
 bash
-git clone https://github.com/cmdzlw/415/edit/main/mazhichao/ispalmcda-master/ASSD.git
 Open the project in Android Studio or IntelliJ IDEA.
 Run ASD.java — the main GUI entry point.
 Usage
